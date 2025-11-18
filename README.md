@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-18 | update: modified.pirate.ships<br>
 2025-11-18 | update: gainpiraterep<br>
 <img width="882" height="1"><br>
 </td>
@@ -71,7 +72,7 @@ fixed icon
 
 <img src="myplugins/modified.pirate.ships/icon.png" height="100">
 
-[modified.pirate.ships.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0-modified.pirate.ships/modified.pirate.ships.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/modified.pirate.ships/) <a href="res/imagemd/modified.pirate.ships.md">view images</a> [1]<br>
+[modified.pirate.ships.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.0-modified.pirate.ships/modified.pirate.ships.zip) | 65.71 kb | 2025-11-18 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/modified.pirate.ships/) <a href="res/imagemd/modified.pirate.ships.md">view images</a> [1]<br>
 <br>
 >Lets you capture or purchase rare modified pirate ships like Bulwark, Cutthroat, Mammoth, Nighthawk, Scrapper, Valkyrie.
 >The aforementioned ships spawn in the system "Arneb" or "Almaaz"
