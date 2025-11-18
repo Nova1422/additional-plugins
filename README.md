@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-18 | update: pugoutfitter<br>
 2025-11-18 | update: modified.pirate.ships<br>
 2025-11-18 | update: gainpiraterep<br>
 <img width="882" height="1"><br>
@@ -96,7 +97,7 @@ The aforementioned ships spawn in the system Arneb and Almaaz, one of the six sh
 
 <img src="myplugins/pugoutfitter/icon.png" height="100">
 
-[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0-pugoutfitter/pugoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
+[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | 148.71 kb | 2025-11-18 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
 <br>
 >Adds T1 and T3 Pug Outfits at planet Pugglemug
 >PS- T3 Pug Outfits are locked behind a job board mission
