@@ -33,7 +33,7 @@ https://github.com/Nova1422/plugin-statistics/
 
 <img src="myplugins/gainpiraterep/icon.png" height="100">
 
-[gainpiraterep.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.2-gainpiraterep/gainpiraterep.zip) | 20.41 kb | 2025-10-28 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
+[gainpiraterep.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.2-gainpiraterep/gainpiraterep.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
 <br>
 >Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
 
@@ -70,7 +70,7 @@ fixed icon
 
 <img src="myplugins/modified.pirate.ships/icon.png" height="100">
 
-[modified.pirate.ships.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-modified.pirate.ships/modified.pirate.ships.zip) | 65.71 kb | 2025-11-17 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/modified.pirate.ships/) <a href="res/imagemd/modified.pirate.ships.md">view images</a> [1]<br>
+[modified.pirate.ships.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0-modified.pirate.ships/modified.pirate.ships.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/modified.pirate.ships/) <a href="res/imagemd/modified.pirate.ships.md">view images</a> [1]<br>
 <br>
 >Lets you capture or purchase rare modified pirate ships like Bulwark, Cutthroat, Mammoth, Nighthawk, Scrapper, Valkyrie.
 >The aforementioned ships spawn in the system "Arneb" or "Almaaz"
@@ -94,7 +94,7 @@ The aforementioned ships spawn in the system Arneb and Almaaz, one of the six sh
 
 <img src="myplugins/pugoutfitter/icon.png" height="100">
 
-[pugoutfitter.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | 148.71 kb | 2025-10-25 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
+[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
 <br>
 >Adds T1 and T3 Pug Outfits at planet Pugglemug
 >PS- T3 Pug Outfits are locked behind a job board mission
@@ -122,7 +122,7 @@ added readme
 
 <img src="myplugins/unlimited.embertear/icon.png" height="100">
 
-[unlimited.embertear.zip](https://github.com/Nova1422/plugins/releases/download/v1.0.0-unlimited.embertear/unlimited.embertear.zip) | 133.75 kb | 2025-10-27 | [view files](https://github.com/Nova1422/plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
+[unlimited.embertear.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0-unlimited.embertear/unlimited.embertear.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
 <br>
 >Lets you fire Ember Tear indefinitely by reducing firing fuel, heat, and energy to 0
 
