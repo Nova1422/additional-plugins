@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-18 | update: gainpiraterep<br>
 <img width="882" height="1"><br>
 </td>
 </tr>
@@ -33,7 +34,7 @@ https://github.com/Nova1422/plugin-statistics/
 
 <img src="myplugins/gainpiraterep/icon.png" height="100">
 
-[gainpiraterep.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.2-gainpiraterep/gainpiraterep.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
+[gainpiraterep.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.2-gainpiraterep/gainpiraterep.zip) | 20.41 kb | 2025-11-18 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/gainpiraterep/) <a href="res/imagemd/gainpiraterep.md">view images</a> [1]<br>
 <br>
 >Adds a repeatable mission on the job board to make pirate factions non-hostile, And a non-repeatable mission which does the same but in a more immersive way.
 
@@ -94,7 +95,7 @@ The aforementioned ships spawn in the system Arneb and Almaaz, one of the six sh
 
 <img src="myplugins/pugoutfitter/icon.png" height="100">
 
-[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
+[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0-pugoutfitter/pugoutfitter.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
 <br>
 >Adds T1 and T3 Pug Outfits at planet Pugglemug
 >PS- T3 Pug Outfits are locked behind a job board mission
