@@ -7,7 +7,7 @@ from PIL import Image
 
 
 def check_local():
-    current_repo = 'Nova1422/plugins'  # put your GitHub repo here
+    current_repo = 'Nova1422/additional-plugins'  # put your GitHub repo here
     pluginurl = 'https://github.com/' + current_repo + '/tree/main/myplugins/'
     return pluginurl, current_repo
 
