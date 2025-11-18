@@ -1,0 +1,26 @@
+For any suggestions, mistakes, or so, mention me in the games [official discord server^](https://discord.com/invite/ZeuASSx)
+
+https://github.com/Nova1422/plugin-statistics/
+%news%
+
+## Plugin List:<br>
+%pluginlist%
+
+
+%plugin template below this line%
+
+---
+
+### %name%
+
+%icon%
+
+[%assetfile%](%assetfullpath%%assetfile%) | %size% | %lastmodified% | [view files](%pluginurl%%pluginnameurl%/) %imagemd%<br>
+<br>
+%description%
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>%readme%</blockquote>
+</details>
+%screenshots%
+<br>
