@@ -5,6 +5,7 @@ https://github.com/Nova1422/plugin-statistics/
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-18 | update: unlimited.embertear<br>
 2025-11-18 | update: pugoutfitter<br>
 2025-11-18 | update: modified.pirate.ships<br>
 2025-11-18 | update: gainpiraterep<br>
@@ -125,7 +126,7 @@ added readme
 
 <img src="myplugins/unlimited.embertear/icon.png" height="100">
 
-[unlimited.embertear.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0-unlimited.embertear/unlimited.embertear.zip) | N/A | N/A | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
+[unlimited.embertear.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.0-unlimited.embertear/unlimited.embertear.zip) | 133.75 kb | 2025-11-18 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
 <br>
 >Lets you fire Ember Tear indefinitely by reducing firing fuel, heat, and energy to 0
 
