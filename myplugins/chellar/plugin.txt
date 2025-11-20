@@ -1,0 +1,5 @@
+name "Chellar"
+version "1.0.0"
+about "Adds 2 missions to obtain 2 unique items, A can of cheese, and a wine cellar."
+authors
+	"Loymdayddaud, Kassandra Harukei, LordNicholas, and other figures involved throughout the plugin making process."

@@ -1,0 +1,32 @@
+outfit "Cheese"
+	category "Hand to Hand"
+	series "H2H"
+	cost 160000
+	thumbnail "outfit/cheese"
+	"capture attack" 1000
+	"capture defense" -100
+	"unplunderable" 1
+	"unique" 1
+	description "The sight of such a weapon fills your crew with confidence. Surely any captain that wields such a weapon with such destructive capabilities should win in a boarding battle, wouldn't they? However, this weapon also has the unintended consequence of filling your crew with a bit too much confidence and carelessness, causing them to charge straight at the enemy."
+
+
+
+mission "Get H2H"
+	landing
+	invisible
+	to offer
+		random < 10
+	source
+		government "Free Worlds" "Republic" "Syndicate"
+	on offer
+		conversation
+			`As you bring the <ship> down upon <origin>, a man with a tungsten sealed container dashes up to you. "Sir, please take this! Quickly!" He speaks so fast that it's almost incoherent.`
+			choice
+				`	"Okay?"`
+				`	"Sorry, no."`
+						decline
+			action
+				outfit "Cheese"
+			`	"Thank you!" He shoves the container into your hand and runs off.`
+			`	You open the container to find an old container of cream cheese. It smells terrible, but maybe you could use it to inspire your crew into battle...`
+				decline
