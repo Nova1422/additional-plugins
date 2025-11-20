@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-20 | update: chellar<br>
 2025-11-18 | update: unlimited.embertear<br>
 2025-11-18 | update: pugoutfitter<br>
 2025-11-18 | update: modified.pirate.ships<br>
@@ -16,9 +17,10 @@
 <table>
 <tr valign="top">
 <td><img width="294" height="1"><br>
+<a href="README.md#chellar">chellar</a><br>
 <a href="README.md#gainpiraterep">gainpiraterep</a><br>
-<a href="README.md#modifiedpirateships">modified.pirate.ships</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
+<a href="README.md#modifiedpirateships">modified.pirate.ships</a><br>
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#unlimitedembertear">unlimited.embertear</a><br>
@@ -26,6 +28,49 @@
 
 
 
+
+
+---
+
+### chellar
+
+<img src="myplugins/chellar/icon.png" height="100">
+
+[chellar.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.0-chellar/chellar.zip) | 61.31 kb | 2025-11-20 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/chellar/) <a href="res/imagemd/chellar.md">view images</a> [3]<br>
+<br>
+>Adds 2 missions to obtain 2 unique items, A can of cheese, and a wine cellar.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>originally intended to be a meme plugin, the two uniques are as follows
+
+
+
+outfit "Cheese"
+
+	category "Hand to Hand"
+
+	series "H2H"
+
+	"capture attack" 1000
+
+	"capture defense" -100
+
+
+
+outfit "Wine Cellar"
+
+	category "Hand to Hand"
+
+	series "Fortifications"
+
+	"capture attack" -100
+
+	"capture defense" 1000
+</blockquote>
+</details>
+
+<br>
 
 
 ---
