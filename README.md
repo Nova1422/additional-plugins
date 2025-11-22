@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-22 | update: purchaseable.peregrine<br>
 2025-11-22 | update: vyuir-capturable<br>
 2025-11-20 | update: chellar<br>
 2025-11-18 | update: unlimited.embertear<br>
@@ -20,9 +21,10 @@
 <td><img width="294" height="1"><br>
 <a href="README.md#chellar">chellar</a><br>
 <a href="README.md#gainpiraterep">gainpiraterep</a><br>
-<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#modifiedpirateships">modified.pirate.ships</a><br>
+<img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
+<a href="README.md#purchaseableperegrine">purchaseable.peregrine</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#unlimitedembertear">unlimited.embertear</a><br>
 <a href="README.md#vyuir-capturable">vyuir-capturable</a><br>
@@ -159,6 +161,24 @@ changelog
 
 added readme
 </blockquote>
+</details>
+
+<br>
+
+
+---
+
+### purchaseable.peregrine
+
+<img src="myplugins/purchaseable.peregrine/icon.png" height="100">
+
+[purchaseable.peregrine.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.0-purchaseable.peregrine/purchaseable.peregrine.zip) | 38.51 kb | 2025-11-22 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/purchaseable.peregrine/) <a href="res/imagemd/purchaseable.peregrine.md">view images</a> [1]<br>
+<br>
+>Makes Peregrine available for sale.
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
 </details>
 
 <br>

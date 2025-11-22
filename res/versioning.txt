@@ -3,5 +3,6 @@ chellar|1.0.0
 gainpiraterep|1.0.2
 modified.pirate.ships|1.0.0
 pugoutfitter|1.0.1
+purchaseable.peregrine|1.0.0
 unlimited.embertear|1.0.0
 vyuir-capturable|1.0.0
