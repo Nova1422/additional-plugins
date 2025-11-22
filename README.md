@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-11-22 | update: vyuir-capturable<br>
 2025-11-20 | update: chellar<br>
 2025-11-18 | update: unlimited.embertear<br>
 2025-11-18 | update: pugoutfitter<br>
@@ -24,6 +25,7 @@
 <a href="README.md#pugoutfitter">pugoutfitter</a><br>
 <img width="294" height="1"><br></td><td><img width="294" height="1"><br>
 <a href="README.md#unlimitedembertear">unlimited.embertear</a><br>
+<a href="README.md#vyuir-capturable">vyuir-capturable</a><br>
 <img width="294" height="1"><br></td></tr></table>
 
 
@@ -171,6 +173,24 @@ added readme
 [unlimited.embertear.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.0-unlimited.embertear/unlimited.embertear.zip) | 133.75 kb | 2025-11-18 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/unlimited.embertear/) <a href="res/imagemd/unlimited.embertear.md">view images</a> [2]<br>
 <br>
 >Lets you fire Ember Tear indefinitely by reducing firing fuel, heat, and energy to 0
+
+<details>
+<summary>:blue_book: Plugin readme</summary>
+<blockquote>N/A</blockquote>
+</details>
+
+<br>
+
+
+---
+
+### vyuir-capturable
+
+<img src="myplugins/vyuir-capturable/icon.png" height="100">
+
+[vyuir-capturable.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.0-vyuir-capturable/vyuir-capturable.zip) | 48.27 kb | 2025-11-22 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/vyuir-capturable/) <a href="res/imagemd/vyuir-capturable.md">view images</a> [1]<br>
+<br>
+>Makes the vyu-Ir capturable.
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
