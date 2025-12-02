@@ -16,6 +16,15 @@ outfitter "T3"
 	"Tier 3 Anti-Missile"
 	"Pug Gridfire Turret"
 
+shipyard "T1"
+	"Pug Zibruka"
+	"Pug Enfolta"
+	"Pug Maboro"
+
+shipyard "T3"
+	"Pug Arfecta"
+
 planet "Pugglemug"
 	outfitter "T1"
+	shipyard "T1"
 	

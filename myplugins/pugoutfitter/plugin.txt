@@ -1,6 +1,6 @@
 name "Pug Outfitter"
-version "1.0.1"
-about "Adds T1 and T3 Pug Outfits at planet Pugglemug"
-about "PS- T3 Pug Outfits are locked behind a job board mission"
+version "1.0.2"
+about "Adds T1 and T3 Pug Outfits and ships at planet Pugglemug"
+about "PS- T3 Pug are locked behind a job board mission"
 authors
 	"Nova."

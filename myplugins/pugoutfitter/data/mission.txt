@@ -15,6 +15,7 @@ mission "Pug Warship"
 	job
 	source
 		planet "Pugglemug"
+	mark "Arneb"
 	npc kill
 		government "PugB"
 		system "Arneb"
@@ -55,3 +56,4 @@ fleet "PugA"
 event "New Pug Outfits"
 	planet "Pugglemug"
 		outfitter "T3"
+		shipyard "T3"
