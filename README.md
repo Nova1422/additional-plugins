@@ -2,6 +2,7 @@
 <table>
 <tr>
 <td><img width="882" height="1"><br>
+2025-12-02 | update: pugoutfitter<br>
 2025-11-22 | update: purchaseable.peregrine<br>
 2025-11-22 | update: vyuir-capturable<br>
 2025-11-20 | update: chellar<br>
@@ -144,18 +145,26 @@ The aforementioned ships spawn in the system Arneb and Almaaz, one of the six sh
 
 <img src="myplugins/pugoutfitter/icon.png" height="100">
 
-[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.1-pugoutfitter/pugoutfitter.zip) | 148.71 kb | 2025-11-18 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
+[pugoutfitter.zip](https://github.com/Nova1422/additional-plugins/releases/download/v1.0.2-pugoutfitter/pugoutfitter.zip) | 148.78 kb | 2025-12-02 | [view files](https://github.com/Nova1422/additional-plugins/tree/main/myplugins/pugoutfitter/) <a href="res/imagemd/pugoutfitter.md">view images</a> [2]<br>
 <br>
->Adds T1 and T3 Pug Outfits at planet Pugglemug
->PS- T3 Pug Outfits are locked behind a job board mission
+>Adds T1 and T3 Pug Outfits and ships at planet Pugglemug
+>PS- T3 Pug are locked behind a job board mission
 
 <details>
 <summary>:blue_book: Plugin readme</summary>
-<blockquote>To obtain T3 Pug outfits, You need to accept the job from job board "Invading Pug Warships", In which you have to fight off 2 Pug Arfectas and as a reward you can now purchase some new outfits.
+<blockquote>To obtain T3 Pug tech, You need to accept the job from job board "Invading Pug Warships", In which you have to fight off 2 Pug Arfectas and as a reward you can now purchase some new outfits and arfectas.
 
 
 
-changelog
+Changelog
+
+
+
+1.0.2
+
+added shipyard
+
+
 
 1.0.1
 
